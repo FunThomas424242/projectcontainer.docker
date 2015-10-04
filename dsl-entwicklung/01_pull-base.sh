@@ -1,0 +1,1 @@
+docker pull funthomas424242/git-maven-eclipse.docker:base

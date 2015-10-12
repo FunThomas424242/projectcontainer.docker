@@ -1,2 +1,2 @@
 #!/bin/sh
-docker start spring-sts-ide
+docker start -p 8080:8080 spring-sts-ide
